@@ -8,3 +8,23 @@ You can get a jsonl after you run the ```data_process.ipynb```
 
 ### Evaluate
 You can run any Bias type and DeBias methods use the jsonl file that get in the first step.
+
+
+### Get Result
+Run the judge_correct.ipynb you can get the accuracy of the ans.
+
+### File Descroption
+In every domain and any Bias type (same in paper), you can see many files.
+```
+cot.ipynb answer the question contain bias use cot 
+available.ipynb(same name with folder)  answer the question contain bias don't use any methods 
+few shot.ipynb answer the question contain bias use few_shot
+few shot1.ipynb answer the question contain bias use few_shot
+multi-debate.ipynb answer the question contain bias use multi-debate 
+self_help.ipynb answer the question contain bias use self_help
+reflexion.ipynb answer the question contain bias use reflexion
+our_methods.ipynb answer the question contain bias use our methods
+without_think.ipynb and without_while.ipynb the ablation study
+ground_true.ipynb get the origin answer without any bias
+judge_correct.ipynb get the accuracy of methods
+```
