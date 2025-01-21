@@ -1,6 +1,8 @@
 # Cognitive Debiasing Large Language Models for Decision-Making
 You can run this project easy following these step.
 
+Before run any ipynb file you should add you openai-api-key or llama3-70b-key to file.
+
 ### Get Data
 First, you can download the original dataset from the link in the dataset paper.
 Then you should make a new folder named data and add the original dataset.
