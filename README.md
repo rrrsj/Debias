@@ -3,6 +3,10 @@ You can run this project easy following these step.
 
 Before run any ipynb file you should add you openai-api-key or llama3-70b-key to file.
 
+### API
+We use gpt3.5-0125 and gpt-4o from openai, you can use your keys.
+We use llama3-70b from groq, its free you can get the keys from Groq.
+
 ### Get Data
 First, you can download the original dataset from the link in the dataset paper.
 Then you should make a new folder named data and add the original dataset.
