@@ -9,7 +9,9 @@ We use llama3-70b from groq, its free you can get the keys from Groq.
 
 ### Get Data
 First, you can download the original dataset from the link in the dataset paper.
+
 Then you should make a new folder named data and add the original dataset.
+
 You can get a jsonl after you run the ```data_process.ipynb```
 
 The jsonl while buile in data files.
