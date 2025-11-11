@@ -1,4 +1,4 @@
-# Cognitive Debiasing Large Language Models for Decision-Making
+# Self-Adaptive Cognitive Debiasing for Large Language Models in Decision-Making
 You can run this project easy following these step.
 
 Before run any ipynb file you should add you openai-api-key or llama3-70b-key to file.
